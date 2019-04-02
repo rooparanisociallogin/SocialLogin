@@ -5,6 +5,8 @@ Use the web page to test the code.
 I have used godaddy for website creation and PHP programming language to integrate. MYSQL is the database. That is also an online tool.
 When you login to db , please PHPMyAdmin for Data. Users is the table.
 
+Google Signin will work perfectly storing the profile information to database. Facebook signin, i am not able to complete due to https URI requirement. 
+
 
 Webpage: http://roopathirdpartylogin.com/social-login/
 
